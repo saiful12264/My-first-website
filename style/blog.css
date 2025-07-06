@@ -1,4 +1,8 @@
 div{
     background-color: tomato;
     padding: 10px;
+    margin: 20px;
+    border-radius: 10px;
+    border: 10px solid black;
+    box-shadow: 10px 10px rgb(20, 159, 54);
 }
